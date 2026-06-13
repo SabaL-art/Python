@@ -3,4 +3,4 @@ __pycache__/
 weather_env/
 venv/
 .env/
-
+history.json
