@@ -4,3 +4,4 @@ weather_env/
 venv/
 .env/
 history.json
+veda_discord_bot/.env
