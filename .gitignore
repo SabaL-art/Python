@@ -5,3 +5,4 @@ venv/
 .env/
 history.json
 veda_discord_bot/.env
+old_content.txt
