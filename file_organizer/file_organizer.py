@@ -40,6 +40,6 @@ for file in list_of_files:
         shutil.move(file_path, os.path.join(
             folder_path, extension_list[extension]))
     else:
-        shutil.move(file_path, os.path.join(folder_path, "Others"))
+        shutil.move(file_path, os.path.join(folder_path, 'Others'))
 
-    print(f"MOVED: {file} -> {extension_list.get(extension, "Others")}")
+    print(f"MOVED: {file} -> {extension_list.get(extension, 'Others')}")
